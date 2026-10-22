@@ -4,6 +4,16 @@ FFXIV（国服）Dalamud 插件：使用爆发药时，将特效替换为"能量
 
 基于 [Loskh/AoAoEnergy](https://github.com/loskh/aoaoenergy) 修改维护。原作者已停止更新，原版插件在当前国服客户端无法生效，本项目修复并精简使其恢复可用。
 
+## 安装（无需编译）
+
+1. 打开卫月设置 → 第三方插件仓库，添加：
+
+   ```
+   https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/repo.json
+   ```
+
+2. 在插件中心搜索 **AoAoEnergy** 安装即可（已装旧版的会显示为更新）。
+
 ## 与原版的区别
 
 - 直接调用国服客户端自带的原生特效 `vfx/common/eff/ev_energydrink_01x.avfx`（即"能量饮料GG"物品的官方特效），不再依赖自制的 avfx 文件——原自定义文件在当前客户端已无法渲染

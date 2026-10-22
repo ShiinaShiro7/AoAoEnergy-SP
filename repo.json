@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Loskh, ShiinaShiro7 (fixed)",
+    "Name": "AoAoEnergy",
+    "Punchline": "将爆发药特效替换为能量饮料GG的RGB光效",
+    "Description": "嗷嗷有劲。基于 Loskh/AoAoEnergy 修复，直接调用客户端原生能量饮料特效，适配当前国服客户端。",
+    "InternalName": "AoAoEnergy",
+    "AssemblyVersion": "1.1.8.0",
+    "RepoUrl": "https://github.com/ShiinaShiro7/AoAoEnergy-SP",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/plugins/AoAoEnergy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/plugins/AoAoEnergy/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/ShiinaShiro7/AoAoEnergy-SP/main/icon.png",
+    "IsHide": false,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "Tags": ["vfx", "potion"],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "AcceptsFeedback": true,
+    "IsThirdParty": true
+  }
+]
